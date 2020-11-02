@@ -23,10 +23,10 @@ grep Igll1 gencode.vM9.annotation.gtf | grep ENSMUST00000124649.1 |grep exon | a
 
 ## 3. Draw the graph
 
-<a href=""  _target="blank"> Code</a>
+<a href="https://github.com/cmutd/ChIP-Seq_GViz/tree/main/code"  _target="blank"> Code</a>
 
 
 
 ## 4. Visualization
 
-![]()
+![](https://github.com/cmutd/ChIP-Seq_GViz/blob/main/figure/chip_gviz.png)
